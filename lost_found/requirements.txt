@@ -1,0 +1,6 @@
+streamlit>=1.32.0
+streamlit-folium>=0.20.0
+folium>=0.16.0
+cloudinary>=1.40.0
+scikit-learn>=1.4.0
+python-dotenv>=1.0.0
